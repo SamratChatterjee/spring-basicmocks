@@ -1,0 +1,5 @@
+dao\ProductDao.class
+service\ProductService.class
+exception\InsufficientProductsException.class
+model\Product.class
+application\App.class
